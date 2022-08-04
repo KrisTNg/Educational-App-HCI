@@ -31,4 +31,15 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
+
+    public void Credit(View View)
+    {
+
+        Intent intent = new Intent(getApplicationContext(), Credit.class);
+
+
+        startActivity(intent);
+
+    }
+
 }

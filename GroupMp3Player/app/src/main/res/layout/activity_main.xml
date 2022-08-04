@@ -30,6 +30,7 @@
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="8dp"
         android:backgroundTint="#AE4D8B"
+        android:onClick="Credit"
         android:text="Credit"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
