@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Group Mp3 Player"
-include ':app'
+rootProject.name = "HCI Project"
+include ':HCI Project'
